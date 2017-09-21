@@ -5,6 +5,7 @@ body,html{
 body {
   font-family: 'Open Sans', sans-serif;
   background-color: #5D6D7E;
+  padding-top: 10%;
 }
 
 .card {
@@ -37,7 +38,8 @@ SOCIAL LINKS
 */
 
 .social {
-  margin-top: 40px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -49,12 +51,7 @@ SOCIAL LINKS
   color: #fff;
 }
 
-.social a i {
-  line-height: 20px;
-}
-
 @media (min-width: 992px) {
   body {
-    padding-top: 12%;
   }
 }
